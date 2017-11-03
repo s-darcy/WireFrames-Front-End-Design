@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="557px" height="352px" viewBox="0 0 557 352" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>browser</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-Design" transform="translate(-734.000000, -895.000000)">
+            <g id="feature.1" transform="translate(0.000000, 843.000000)">
+                <g id="browser" transform="translate(735.000000, 53.000000)">
+                    <path d="M0,5.00443555 C0,2.24056212 2.23615609,0 4.99963667,0 L550.000363,0 C552.761586,0 555,2.2303666 555,5.00443555 L555,30 L0,30 L0,5.00443555 Z" id="Rectangle-128-Copy-2" stroke="#CECECE" fill="#ECECEC"></path>
+                    <path d="M0,29.9028807 L555,29.9028807 L555,344.908604 C555,347.666867 552.763844,349.902881 550.000363,349.902881 L4.99963667,349.902881 C2.23841358,349.902881 0,347.666746 0,344.908604 L0,29.9028807 Z" id="Rectangle-128-Copy-4" stroke="#CECECE" fill="#F7F8F8"></path>
+                    <circle id="Oval-44" fill="#CECECE" cx="16" cy="16" r="5"></circle>
+                    <circle id="Oval-44" fill="#CECECE" cx="34" cy="16" r="5"></circle>
+                    <circle id="Oval-44" fill="#CECECE" cx="52" cy="16" r="5"></circle>
+                    <path d="M278,168 C265.849714,168 256,177.849714 256,190 C256,202.150286 265.849714,212 278,212 C290.150286,212 300,202.150286 300,190 C300,177.849714 290.150286,168 278,168 L278,168 Z M272.058743,199.097363 L272.058743,180.902637 L287.809389,190 L272.058743,199.097363 L272.058743,199.097363 Z" id="play" fill="#AAB1B9"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

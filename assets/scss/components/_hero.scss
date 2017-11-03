@@ -1,0 +1,24 @@
+.hero {
+    
+    p {
+        color: $color-pale-sky;
+        line-height: 45px;
+        margin-bottom: 50px;
+        font-size: 25px;
+    }
+    
+    .heading--2 {
+        margin-bottom: 17px;
+    }
+
+    .lead a {
+        font-size: 19px;
+        color: $color-pale-sky;
+    }
+
+    &__image {
+        max-height: 430.77px;
+        max-width: 670.43px;
+    }
+
+}

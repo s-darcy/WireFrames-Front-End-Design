@@ -1,0 +1,27 @@
+html, body {
+    font-size: 16px;
+	font-family: $primary-font;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+.heading--2 {
+    font-size: 32px;
+    line-height: 54px;
+}
+
+h2 {
+	font-size: 32px;
+	line-height: 38px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: $primary-font;
+	color: $color-cloud-burst;
+}
+
+p {
+    font-size: 16px;
+}
+
